@@ -1,0 +1,22 @@
+.programs {
+  width: 100%;
+  &__title {
+    text-align: center;
+    color: $clr-blue;
+  }
+  &__para {
+    text-align: center;
+  }
+  &__columns {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 30rem 20rem;
+    margin-left: 25rem;
+  }
+  &__columns-title {
+    color: $clr-blue;
+  }
+  &__columns-sub-title {
+    margin-top: 1rem;
+  }
+}

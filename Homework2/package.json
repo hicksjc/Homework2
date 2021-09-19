@@ -1,0 +1,14 @@
+{
+  "name": "homework2",
+  "version": "1.0.0",
+  "description": "This is the json file for homework2",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Hicks",
+  "license": "ISC"
+}
